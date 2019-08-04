@@ -1,0 +1,5 @@
+{
+    "database": {
+        "connString": "mongodb://localhost/movieshop"
+    }
+}
